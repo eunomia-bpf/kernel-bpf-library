@@ -4,6 +4,10 @@ This is a standalone eBPF runtime and verifier, extracted from the Linux kernel.
 
 The current version is based on the Linux kernel `linux-watchdog-6.5-rc2` and commit `3f01e9fed`.
 
+**Warning! WIP**
+
+**Not useable and not finish yet**
+
 ## Features
 
 - Minimal changes to the original kernel code, No modification to the kernel verfiier, jit, and interpreter.
